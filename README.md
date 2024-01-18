@@ -42,7 +42,7 @@
 ## 👍 Redes
 <div id="badges">
   <img href="https://www.linkedin.com/in/frangiachero-developerweb/" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  <img href="https://github.com/Frangia22" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
 </div>
 
 *   🖥️  Ver mi portfolio [devfg.com.ar](https://devfg.com.ar)
